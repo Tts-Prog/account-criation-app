@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CreateAccount_final</string>
+    <string name="salut">Hey there</string>
+    <string name="title">Create Account and continue</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="description">Sign Up</string>
+</resources>
